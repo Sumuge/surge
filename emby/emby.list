@@ -82,5 +82,14 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
 
-# > misa服务器
+# > misakaf服务器
 DOMAIN,emby.misakaf.xyz
+
+# > charontv服务器
+DOMAIN,play.charontv.com
+
+# > 黑山服务器
+DOMAIN,hs.gcx920110.com
+
+# > 品云服务器
+DOMAIN,look.embyplus.club
