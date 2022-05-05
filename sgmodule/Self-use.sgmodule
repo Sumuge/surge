@@ -33,7 +33,7 @@ TF下载修正 = type=http-request,pattern=^https?:\/\/testflight\.apple\.com\/v
 
 
 # 爱奇艺
-爱奇艺签到 = type=cron,cronexp="3 0 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+# 爱奇艺签到 = type=cron,cronexp="3 0 * * *",wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
 
 # 网易云音乐
 #cron "3 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js, wake-system=1
