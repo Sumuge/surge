@@ -88,9 +88,27 @@ DOMAIN,emby.misakaf.xyz
 # > charontv服务器
 DOMAIN,play.charontv.com
 
+# > 猫熊服务器
+DOMAIN,emby.kim
+
 # > 黑山服务器
 DOMAIN,hs.gcx920110.com
 DOMAIN,sg.gcx920110.com
 
 # > 品云服务器
 DOMAIN,look.embyplus.club
+DOMAIN,cf.j2l.ink
+DOMAIN,azhk.embyplus.club
+
+# > 终点站服务器
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub1cm1.emby.wtf
+DOMAIN,pub2cm1.emby.wtf
+DOMAIN,pub3cm1.emby.wtf
+
+# > Polo服务器
+DOMAIN,cu.poloemby.xyz
+DOMAIN,zzl.poloemby.xyz
+DOMAIN,zf.hk02.77is.top
