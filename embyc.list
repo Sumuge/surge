@@ -1,114 +1,111 @@
 # Nexitally-Emby
-DOMAIN-SUFFIX,emby.nexitally.com,Emby
+DOMAIN-SUFFIX,emby.nexitally.com
 
 # charontv-Emby
-DOMAIN-SUFFIX,paly.charontv.com,Emby
+DOMAIN-SUFFIX,paly.charontv.com
 
 # emby-flowercloud
-DOMAIN-SUFFIX,emby.flowercloud.yt,Emby
+DOMAIN-SUFFIX,emby.flowercloud.yt
 
 # emby-paoche
-DOMAIN-SUFFIX,emby.cjpc.cc,Emby
+DOMAIN-SUFFIX,emby.cjpc.cc
 
 # emby-maying
-DOMAIN-SUFFIX,emby.maying.club,Emby
+DOMAIN-SUFFIX,emby.maying.club
 
 # emby-mdss
-DOMAIN-SUFFIX,emby.mdss.cloud,Emby
-
+DOMAIN-SUFFIX,emby.mdss.cloud
 # emby-ytoo
-DOMAIN-SUFFIX,emby.ytoo.li,Emby
+DOMAIN-SUFFIX,emby.ytoo.li
 
 # emby-w8ves
-DOMAIN-SUFFIX,embyserver.ga,Emby
+DOMAIN-SUFFIX,embyserver.ga
 
 # emby-prpr
-DOMAIN-SUFFIX,emby.prprcloud.com,Emby
+DOMAIN-SUFFIX,emby.prprcloud.com
 
 # emby-nyancat
-DOMAIN-SUFFIX,emby.nyancat.net,Emby
-
+DOMAIN-SUFFIX,emby.nyancat.net
 # emby-Plus
-DOMAIN-SUFFIX,emby.plusmedia.site,Emby
-DOMAIN-SUFFIX,emby-cf.plusmedia.site,Emby
-DOMAIN-SUFFIX,emby.xeton.dev,Emby
-DOMAIN-SUFFIX,jellyfin.xeton.dev,Emby
-DOMAIN-SUFFIX,movie.xeton.dev,Emby
-DOMAIN-SUFFIX,servers.xeton.dev,Emby
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
 
 # emby-Otaku
-DOMAIN-SUFFIX,emby.otakudrive.life,Emby
-DOMAIN-SUFFIX,emby2.otakudrive.life,Emby 
+DOMAIN-SUFFIX,emby.otakudrive.life
+DOMAIN-SUFFIX,emby2.otakudrive.life
 
 # emby-jmsooo
-DOMAIN-SUFFIX,agahk1.jmsooo.com,Emby
-DOMAIN-SUFFIX,agasg1.jmsooo.com,Emby
-DOMAIN-SUFFIX,agajp1.jmsooo.com,Emby
-DOMAIN-SUFFIX,aws.jmsooo.com,Emby
-DOMAIN-SUFFIX,ntt1.jmsooo.com,Emby
-DOMAIN-SUFFIX,hinet.jmsooo.com,Emby
-DOMAIN-SUFFIX,cf1.jmsooo.com,Emby
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
 
 # pornemby
-DOMAIN-SUFFIX,pornemby.club,Emby
-
+DOMAIN-SUFFIX,pornemby.club
 # IMM
-DOMAIN-SUFFIX,emby.immtel.com,Emby
+DOMAIN-SUFFIX,emby.immtel.com
 
 # Odyssey
-DOMAIN-SUFFIX,cf.odysseyplus.site,Emby
-DOMAIN-SUFFIX,agahk.odysseyplus.site,Emby
-DOMAIN-SUFFIX,agasg.odysseyplus.site,Emby
-DOMAIN-SUFFIX,ru.odysseyplus.site,Emby
+DOMAIN-SUFFIX,cf.odysseyplus.site
+DOMAIN-SUFFIX,agahk.odysseyplus.site
+DOMAIN-SUFFIX,agasg.odysseyplus.site
+DOMAIN-SUFFIX,ru.odysseyplus.site
 
 # Exflux
-DOMAIN-SUFFIX,line.emby.men,Emby
+DOMAIN-SUFFIX,line.emby.men
 
 # SoCloud
-DOMAIN-SUFFIX,emby.run,Emby
+DOMAIN-SUFFIX,emby.run
 
 # 普拉斯影业
-DOMAIN-SUFFIX,emby.plusmedia.site,Emby
-DOMAIN-SUFFIX,emby-sg.plusmedia.site,Emby
-DOMAIN-SUFFIX,emby-cf.plusmedia.site,Emby
-DOMAIN-SUFFIX,emby.xeton.dev,Emby
-DOMAIN-SUFFIX,jellyfin.xeton.dev,Emby
-DOMAIN-SUFFIX,movie.xeton.dev,Emby
-DOMAIN-SUFFIX,servers.xeton.dev,Emby
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-sg.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
 
 # WaveCloud
-DOMAIN-SUFFIX,embyserver.ga,Emby
+DOMAIN-SUFFIX,embyserver.ga
 
 # 猫熊服务器
 DOMAIN-SUFFIX,emby.kim,Emby
 
 # Polo
-DOMAIN-SUFFIX,cu.poloemby.xyz,Emby
-DOMAIN-SUFFIX,zzl.poloemby.xyz,Emby
-DOMAIN-SUFFIX,zf.hk02.77is.top,Emby
+DOMAIN-SUFFIX,cu.poloemby.xyz
+DOMAIN-SUFFIX,zzl.poloemby.xyz
+DOMAIN-SUFFIX,zf.hk02.77is.top
 
 # 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com,Emby
-DOMAIN-SUFFIX,cf.jmsooo.com,Emby
-DOMAIN-SUFFIX,hk.jmsooo.com,Emby
-DOMAIN-SUFFIX,sg.jmsooo.com,Emby
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,hk.jmsooo.com,
+DOMAIN-SUFFIX,sg.jmsooo.com
 
 # misakaf
-DOMAIN-SUFFIX,emby.misakaf.xyz,Emby
+DOMAIN-SUFFIX,emby.misakaf.xyz
 
 # 黑山
-DOMAIN-SUFFIX,hs.gcx920110.com,Emby
-DOMAIN-SUFFIX,sg.gcx920110.com,Emby
+DOMAIN-SUFFIX,hs.gcx920110.com
+DOMAIN-SUFFIX,sg.gcx920110.com
 
 # 品云
-DOMAIN-SUFFIX,look.embyplus.club,Emby
-DOMAIN-SUFFIX,cf.embyplus.club,Emby
-DOMAIN-SUFFIX,azhk.embyplus.club,Emby
+DOMAIN-SUFFIX,look.embyplus.club
+DOMAIN-SUFFIX,cf.embyplus.club
+DOMAIN-SUFFIX,azhk.embyplus.club
 
 # 终点站
-DOMAIN-SUFFIX,pub1.emby.wtf,Emby
-DOMAIN-SUFFIX,pub2.emby.wtf,Emby
-DOMAIN-SUFFIX,pub3.emby.wtf,Emby
-DOMAIN-SUFFIX,pub1cm1.emby.wtf,Emby
-DOMAIN-SUFFIX,pub2cm1.emby.wtf,Emby
-DOMAIN-SUFFIX,pub3cm1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub1cm1.emby.wtf
+DOMAIN-SUFFIX,pub2cm1.emby.wtf
+DOMAIN-SUFFIX,pub3cm1.emby.wtf
